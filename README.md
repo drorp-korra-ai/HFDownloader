@@ -17,7 +17,7 @@ The package can be installed with the following command:
 # How to Use
 Here is a bit of code you can reference to see how to use the package. I will be using another package I released called [HFLoader](https://github.com/Solonce/HFLoader), that simply loads the tokenizer and model. You can do this in any way, this package is not required.
 
-    import hlfloader as hfl
+    import hfloader as hfl
     import hfdownload as hfd
     
     huggingface_model = "cardiffnlp/twitter-roberta-base-sentiment"
